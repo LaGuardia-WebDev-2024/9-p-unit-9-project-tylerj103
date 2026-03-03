@@ -3,13 +3,13 @@ setup = function() {
 };
 
 //Background Images
-var caveSceneImage = loadImage("https://www.shutterstock.com/image-vector/vector-illustration-background-forest-scenery-600nw-1807427365.jpg");
+var caveSceneImage = loadImage("https://www.cudenver.com/getattachment/6069b13a-b108-43c8-848b-9e1fb0679e5f/Denver-s-Spookiest-Halloween-Haunted-Houses");
 
-var forestImage = loadImage("https://t3.ftcdn.net/jpg/02/50/39/72/360_F_250397206_HuBj2V5oEytcqonzpzum4IjEjtAsZq3g.jpg");
+var forestImage = loadImage("https://www.cudenver.com/getattachment/6069b13a-b108-43c8-848b-9e1fb0679e5f/Denver-s-Spookiest-Halloween-Haunted-Houses");
 
 //Variable Declarations
 var sceneImage = caveSceneImage;
-var sceneText = "Where do you want to go?  [Press f for forest and c for cave]";
+var sceneText = "Welcome to the haunted house?  [Press f to enter and c to turn back]";
 
 draw = function(){
     
